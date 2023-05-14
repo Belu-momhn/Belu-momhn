@@ -1,6 +1,3 @@
-## not work for me password?
+## not work for me Bluetooth?
 
-hour passwords WiFi is discord server one of those times are 
-
-
-
+hour Bluetooth WiFi is discord server one of those times are open settings > Bluetooth 
