@@ -5,3 +5,4 @@ All products that use vscode technology must complete the product qualification 
 https://github.com/vhqtvn/VHSCode-Android
 👇your vscode
 https://github.com/vhqtvn/VHEditor-Android/releases
+`apt update git' the vscode termux 
