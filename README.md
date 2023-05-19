@@ -6,9 +6,3 @@ system32 or to folder new one for your help today with
 "•" --> U+2022 BULLET
 "hello•world" --> "hello", "world"
 
-```win.py
-"foo,,bar" --> "foo", "", "bar"
-",foo" --> "", "foo"
-"foo," --> "foo", ""
-"," --> "", ""
-",," --> "", "", ""
