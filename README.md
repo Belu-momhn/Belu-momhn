@@ -5,3 +5,5 @@ system32 or to folder new one for your help today with
 "我很高兴，你呢？" --> "我很高兴", "你呢？"
 "•" --> U+2022 BULLET
 "hello•world" --> "hello", "world"
+
+```
