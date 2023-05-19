@@ -1,8 +1,4 @@
-## not work for me vscode
-
-Find resources to help you build and test your vscode product.
-All products that use vscode technology must complete the product qualification process. It ensures global interoperability and further strengthens the vscode brand 👇
-https://github.com/vhqtvn/VHSCode-Android
-👇your vscode
-https://github.com/vhqtvn/VHEditor-Android/releases
-`apt update git` the vscode termux 
+## hour or so ago and system32
+system32 or to folder new one for your help today with
+```win.py
+https://github.com/moby/moby/blob/master/contrib/check-config.sh
