@@ -1,3 +1,10 @@
-
-https://github.com/vhqtvn/VHSCode-Androidhttps://github.com/vhqtvn/VHEditor-Android/releaseshttps://github.com/vhqtvn/VHSCode-Androidhttps://github.com/vhqtvn/VHEditor-Android/releasesvscode
-vscode<?????>openfjehndjcdb8urjfbfjbid
+-- Simple replacement
+string.gsub("I love tacos!", "tacos", "Roblox") --> I love Roblox! 1
+-- Using a pattern (hint: %w+ matches whole words)
+string.gsub("I like red!", "%w+", "word") --> word word word 3
+-- Replacement table
+string.gsub("I play Roblox.", "%w+", {I="Je", play="joue à"}) --> Je joue à Roblox. 3
+-- Replacement function
+string.gsub("I have 2 cats.", "%d+", function (n) return tonumber(n) * 12 end) --> I have 24 cats. 1
+-- Replace only twice
+string.gsub("aaa", "a", "b", 2) --> "bba", 2
