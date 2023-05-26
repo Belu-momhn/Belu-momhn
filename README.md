@@ -1,8 +1,19 @@
 ## hour or so ago and system32
 system32 or to folder new one for your help today with
 ```win.py
-"，" --> U+FF0C FULLWIDTH COMMA
-"我很高兴，你呢？" --> "我很高兴", "你呢？"
-"•" --> U+2022 BULLET
-"hello•world" --> "hello", "world"
+-- The require function is provided a ModuleScript, then runs
+
+-- the code, waiting until it returns a singular value.
+
+local MyFunctions = require(script.Parent.MyFunctions)
+
+-- These are some dummy functions defined in another code sample
+
+MyFunctions.foo()
+
+MyFunctions.bar()
+
+
+
+
 
