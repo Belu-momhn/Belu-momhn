@@ -1,8 +1,5 @@
-## hour or so ago and system32
-system32 or to folder new one for your help today with
+## Flutter opensite files apk build
 
-
-
-
-
-
+install flutter open file apk build download flutter 
+> Warning : flutter installing failed syntax .dev or open
+has Apps only
